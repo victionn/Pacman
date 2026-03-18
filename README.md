@@ -13,7 +13,7 @@ Ensure you have Java and Gradle installed.
 
 ```bash
 gradle clean build run
-
+```
 ## Design Patterns
 
 ### Decorator Pattern
