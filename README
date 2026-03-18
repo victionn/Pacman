@@ -1,0 +1,12 @@
+To run the code: gradle clean build run
+
+Files involved in design pattern
+
+Decorator pattern:
+In java/pacman/model/entity/staticentity/collectable
+
+State pattern:
+In java/pacman/model/GhostState
+
+Strategy pattern:
+In java/pacman/model/Strategy
